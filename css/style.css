@@ -1,0 +1,72 @@
+body {
+    background-color: #01311F;
+    color: #FFFAF0;
+}
+
+h1, h2, h3{
+    font-family: "Comme";
+    font-size: 25px;
+    font-weight: bolder;
+    text-shadow: .25px .25px .5px #FFFAF0;
+    color: #e4a31e;
+}
+
+div{
+    font-family: "Lexend Deca";
+}
+
+p{
+    font-size: 15px;
+}
+
+figure {
+    padding: 15px;
+    margin: 20px;
+}
+
+figcaption{
+    font-size: 15px;
+}
+
+img{
+    border-radius: 20px;
+    border: 5px solid;
+    width: 380px;
+}
+
+
+ol, ul, li{
+    font-size: 15px;
+}
+
+li{
+    padding: 10px;
+}
+
+form{
+    width: 35%;
+    padding: 10px;
+    background-color: #e4a31e;
+    box-shadow: .05px .05px 1px 1px #FFFAF0;
+}
+input{
+    padding: 3.5px;
+}
+
+legend, fieldset{
+    color: #1d2f23;
+    background-color: #e4a31e;
+}
+
+fieldset{
+    border: 3px solid #1d2f23;
+}
+
+legend{
+    border: 3px solid;
+}
+
+hr{
+    border: 5px solid #e4a31e;
+    border-radius: 5px;
+}
